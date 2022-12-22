@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-- facebook.com/asad406
-- linkedin.com/in/asad406
+- www.facebook.com/asad406
+- www.linkedin.com/in/asad406
 
 <!---
 asad406/asad406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
